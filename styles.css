@@ -1,1 +1,33 @@
-/* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+    padding-left: 20px;
+    padding-right: 20px;
+    background: rgb(151,235,149);
+    background: linear-gradient(90deg, rgba(151,235,149,1) 0%, rgba(255,255,255,1) 3%, rgba(255,255,255,1) 97%, rgba(151,235,149,1) 100%);
+}
+
+#mainHeading {
+    color: red;
+ }
+
+ul {
+    list-style-type: none;
+}
+
+#testP{
+    font-weight: bold;
+}
+
+.funParagraph {
+    color: green;
+}
+
+img {
+	width: 600px;
+    padding-left: 20px;	
+}
+
+footer {
+	text-align: center;
+}
